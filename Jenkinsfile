@@ -1,4 +1,4 @@
-﻿pipeline {
+pipeline {
     agent {
         docker { 
             image 'mcr.microsoft.com/dotnet/sdk:10.0' 
