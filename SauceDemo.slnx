@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SauceDemo_Pages/SauceDemo_Core.csproj" />
+  <Project Path="SauceDemo_UI_Tests/SauceDemo_UI_Tests.csproj" />
+</Solution>

@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_ui_tests\\jenkinsfile||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|solutionrelative:saucedemo_ui_tests\\jenkinsfile||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_ui_tests\\tests\\productflowtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|solutionrelative:saucedemo_ui_tests\\tests\\productflowtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_ui_tests\\tests\\parampricetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|solutionrelative:saucedemo_ui_tests\\tests\\parampricetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_ui_tests\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|solutionrelative:saucedemo_ui_tests\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_ui_tests\\dependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|solutionrelative:saucedemo_ui_tests\\dependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_ui_tests\\tests\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|solutionrelative:saucedemo_ui_tests\\tests\\base\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_ui_tests\\allureconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|solutionrelative:saucedemo_ui_tests\\allureconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\services\\uiservices\\uiproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\services\\uiservices\\uiproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\services\\uiservices\\uicheckoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\services\\uiservices\\uicheckoutservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\services\\uiservices\\uiauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\services\\uiservices\\uiauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\services\\uiservices\\uicartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\services\\uiservices\\uicartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\pageobjects\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\pageobjects\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\pageobjects\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\pageobjects\\productspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Pages.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\pageobjects\\base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Pages.csproj|solutionrelative:saucedemo_pages\\pageobjects\\base\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\pageobjects\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\pageobjects\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\pageobjects\\thankyoupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\pageobjects\\thankyoupage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\pageobjects\\overviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\pageobjects\\overviewpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\pageobjects\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_pages\\context\\uicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9700BCB-B666-E000-0DB0-94DBF56CCDBF}|SauceDemo_Pages\\SauceDemo_Core.csproj|solutionrelative:saucedemo_pages\\context\\uicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|c:\\users\\bodob\\source\\repos\\portfolio\\saucedemo\\saucedemo_ui_tests\\saucedemo_ui_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77C983DF-65B3-FEFE-E963-B4BD4EB14F84}|SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj|solutionrelative:saucedemo_ui_tests\\saucedemo_ui_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jenkinsfile",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Jenkinsfile",
+              "RelativeDocumentMoniker": "SauceDemo_UI_Tests\\Jenkinsfile",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Jenkinsfile",
+              "RelativeToolTip": "SauceDemo_UI_Tests\\Jenkinsfile",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-03T17:24:41.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "allureConfig.json",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\allureConfig.json",
+              "RelativeDocumentMoniker": "SauceDemo_UI_Tests\\allureConfig.json",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\allureConfig.json",
+              "RelativeToolTip": "SauceDemo_UI_Tests\\allureConfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-03T17:08:30.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Tests\\LoginTest.cs",
+              "RelativeDocumentMoniker": "SauceDemo_UI_Tests\\Tests\\LoginTest.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Tests\\LoginTest.cs",
+              "RelativeToolTip": "SauceDemo_UI_Tests\\Tests\\LoginTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:47:51.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParamPriceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Tests\\ParamPriceTests.cs",
+              "RelativeDocumentMoniker": "SauceDemo_UI_Tests\\Tests\\ParamPriceTests.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Tests\\ParamPriceTests.cs",
+              "RelativeToolTip": "SauceDemo_UI_Tests\\Tests\\ParamPriceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:55:15.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductFlowTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Tests\\ProductFlowTest.cs",
+              "RelativeDocumentMoniker": "SauceDemo_UI_Tests\\Tests\\ProductFlowTest.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Tests\\ProductFlowTest.cs",
+              "RelativeToolTip": "SauceDemo_UI_Tests\\Tests\\ProductFlowTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:54:20.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Tests\\Base\\BaseTest.cs",
+              "RelativeDocumentMoniker": "SauceDemo_UI_Tests\\Tests\\Base\\BaseTest.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Tests\\Base\\BaseTest.cs",
+              "RelativeToolTip": "SauceDemo_UI_Tests\\Tests\\Base\\BaseTest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:10:49.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dependencies.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Dependencies.cs",
+              "RelativeDocumentMoniker": "SauceDemo_UI_Tests\\Dependencies.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\Dependencies.cs",
+              "RelativeToolTip": "SauceDemo_UI_Tests\\Dependencies.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:27:16.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Services\\UIServices\\UIProductsService.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\Services\\UIServices\\UIProductsService.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Services\\UIServices\\UIProductsService.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\Services\\UIServices\\UIProductsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:13:50.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UICheckoutService.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Services\\UIServices\\UICheckoutService.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\Services\\UIServices\\UICheckoutService.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Services\\UIServices\\UICheckoutService.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\Services\\UIServices\\UICheckoutService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:05:34.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UIAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Services\\UIServices\\UIAuthenticationService.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\Services\\UIServices\\UIAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Services\\UIServices\\UIAuthenticationService.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\Services\\UIServices\\UIAuthenticationService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:38:40.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UICartService.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Services\\UIServices\\UICartService.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\Services\\UIServices\\UICartService.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Services\\UIServices\\UICartService.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\Services\\UIServices\\UICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:05:20.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\CartPage.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\PageObjects\\CartPage.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\CartPage.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\PageObjects\\CartPage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:19:44.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsPage.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\ProductsPage.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\PageObjects\\ProductsPage.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\ProductsPage.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\PageObjects\\ProductsPage.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCUAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T12:57:47.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\Base\\BasePage.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\PageObjects\\Base\\BasePage.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\Base\\BasePage.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\PageObjects\\Base\\BasePage.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:05:33.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ThankYouPage.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\ThankYouPage.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\PageObjects\\ThankYouPage.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\ThankYouPage.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\PageObjects\\ThankYouPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:38:30.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OverviewPage.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\OverviewPage.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\PageObjects\\OverviewPage.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\OverviewPage.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\PageObjects\\OverviewPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:35:36.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CheckoutPage.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\CheckoutPage.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\PageObjects\\CheckoutPage.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\CheckoutPage.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\PageObjects\\CheckoutPage.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T13:29:58.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\PageObjects\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\PageObjects\\LoginPage.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\PageObjects\\LoginPage.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:39:47.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UIContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Context\\UIContext.cs",
+              "RelativeDocumentMoniker": "SauceDemo_Pages\\Context\\UIContext.cs",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_Pages\\Context\\UIContext.cs",
+              "RelativeToolTip": "SauceDemo_Pages\\Context\\UIContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T10:41:34.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SauceDemo_UI_Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj",
+              "RelativeDocumentMoniker": "SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj",
+              "ToolTip": "C:\\Users\\Bodob\\source\\repos\\PORTFOLIO\\SauceDemo\\SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj*",
+              "RelativeToolTip": "SauceDemo_UI_Tests\\SauceDemo_UI_Tests.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T12:39:56.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
