@@ -31,7 +31,9 @@ namespace SauceDemo_UI_Tests
             {
                 ChromeOptions options = new ChromeOptions();
                 options.AddArgument("--incognito");
-                options.AddArgument("--headless");
+                options.AddArgument("--headless=new");
+                options.AddArgument("--no-sandbox");
+                options.AddArgument("--disable-dev-shm-usage");
                 return new ChromeDriver(options);
             });
             services.AddScoped<LoginPage>();
