@@ -43,7 +43,7 @@ pipeline {
                 }
 
                 catchError(buildResult: 'FAILURE', stageResult: 'FAILURE') {
-                    sh 'dotnet test SauceDemo_UI_Tests/SauceDemo_UI_Tests.csproj --configuration Release --logger "junit;LogFilePath=../TEST-results.xml"'                
+                    sh 'dotnet test SauceDemo_UI_Tests/SauceDemo_UI_Tests.csproj --configuration Release'            
                     }
             
                 script {
