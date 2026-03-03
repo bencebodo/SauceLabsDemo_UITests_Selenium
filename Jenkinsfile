@@ -2,6 +2,7 @@
     agent {
         docker { 
             image 'mcr.microsoft.com/dotnet/sdk:10.0' 
+            args '-u root' 
         }
     }
 
@@ -13,32 +14,43 @@
             }
         }
 
-        stage('Restore & Build') {
+        stage('Setup Environment') {
             steps {
-                dir('EduPortal') {
-                    echo 'Build solution...'
-                    sh 'dotnet restore'
-                    sh 'dotnet build --configuration Release'
-                }
+                echo 'Installing Google Chrome for Selenium...'
+                sh '''
+                    apt-get update
+                    apt-get install -y wget gnupg
+                    wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
+                    sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+                    apt-get update
+                    apt-get install -y google-chrome-stable
+                '''
             }
         }
-        stage('Unit tests') {
+
+        stage('Restore & Build') {
+            steps {
+                echo 'Build solution...'
+                sh 'dotnet restore'
+                sh 'dotnet build --configuration Release'
+            }
+        }
+
+        stage('UI tests') {
             steps {
                 script{
-                updateGitHubStatus('ci/jenkins/unit-tests', 'Unit tests started...', 'PENDING')
+                    updateGitHubStatus('ci/jenkins/ui-tests', 'UI tests started...', 'PENDING')
                 }
 
-                dir('EduPortal') {
-                    catchError(buildResult: 'FAILURE', stageResult: 'FAILURE') {
-                        sh 'dotnet test EduPortal.UnitTests/EduPortal.UnitTests.csproj'
-                    }
+                catchError(buildResult: 'FAILURE', stageResult: 'FAILURE') {
+                    sh 'dotnet test SauceDemo_UI_Tests/SauceDemo_UI_Tests.csproj --configuration Release --logger "junit;LogFilePath=TEST-results.xml"'
                 }
         
                 script {
                     if (currentBuild.result == 'FAILURE') {
-                        updateGitHubStatus('ci/jenkins/unit-tests', 'Unit tests failed!', 'FAILURE')
+                        updateGitHubStatus('ci/jenkins/ui-tests', 'UI tests failed!', 'FAILURE')
                     } else {
-                        updateGitHubStatus('ci/jenkins/unit-tests', 'Unit tests passed!', 'SUCCESS')
+                        updateGitHubStatus('ci/jenkins/ui-tests', 'UI tests passed!', 'SUCCESS')
                     }
                 }
             }
@@ -47,7 +59,9 @@
 
     post {
         always {
-            echo 'Pipeline finished.'
+            echo 'Pipeline finished. Publishing test results...'
+            
+            junit '**/TEST-results.xml'
         }
     }
 }
