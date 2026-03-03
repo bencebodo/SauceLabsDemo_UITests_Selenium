@@ -58,12 +58,10 @@ pipeline {
     }
 
     post {
-        always {
-            echo 'Pipeline finished. Publishing test results...'
-            
-            junit '**/TEST-results.xml'
-        }
+    always {
+        allure includeProperties: false, jdk: '', results: [[path: '**/allure-results']]
     }
+}
 }
 
 def updateGitHubStatus(String contextName, String msg, String state) {
