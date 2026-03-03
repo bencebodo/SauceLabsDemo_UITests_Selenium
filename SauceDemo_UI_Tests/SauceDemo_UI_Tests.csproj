@@ -9,10 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Jenkinsfile" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Allure.NUnit" Version="2.14.1" />
     <PackageReference Include="coverlet.collector" Version="6.0.4" />
     <PackageReference Include="DotNetSeleniumExtras.WaitHelpers" Version="3.11.0" />
@@ -37,6 +33,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="Jenkinsfile" />
     <None Update="allureConfig.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
