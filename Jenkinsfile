@@ -16,10 +16,11 @@ pipeline {
 
         stage('Setup Environment') {
             steps {
-                echo 'Installing Google Chrome for Selenium...'
+                echo 'Installing Google Chrome and Java for Allure...'
                 sh '''
                     apt-get update
-                    apt-get install -y wget gnupg
+                    # IDE KERÜLT BE A default-jre:
+                    apt-get install -y wget gnupg default-jre
                     wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add -
                     sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
                     apt-get update
