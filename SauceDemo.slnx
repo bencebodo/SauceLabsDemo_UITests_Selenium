@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="SauceDemo_Pages/SauceDemo_Core.csproj" />
-  <Project Path="SauceDemo_UI_Tests/SauceDemo_UI_Tests.csproj" />
+  <Project Path="SauceDemo.Pages/SauceDemo.Pages.csproj" Id="daa1fc19-fe7f-4f9c-8745-821a60979769" />
+  <Project Path="SauceDemo.Core/SauceDemo.Core.csproj" />
+  <Project Path="SauceDemo.Tests/SauceDemo.Tests.csproj" />
 </Solution>
