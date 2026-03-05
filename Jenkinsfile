@@ -43,7 +43,7 @@ pipeline {
                 }
 
                 catchError(buildResult: 'FAILURE', stageResult: 'FAILURE') {
-                    sh 'dotnet test SauceDemo_UI_Tests/SauceDemo_UI_Tests.csproj --configuration Release'            
+                    sh 'dotnet test SauceDemo.Tests/SauceDemo.Tests.csproj --configuration Release'            
                     }
             
                 script {
